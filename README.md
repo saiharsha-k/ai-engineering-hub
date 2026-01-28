@@ -20,7 +20,7 @@ Navigate like a pro: Each links to dedicated sub-repos with hands-on projects.
 
 2. **Deep Learning**
   🔗 Deep Learning Core  
-  [Explore Repo] (https://github.com/saiharsha-k/deep-learning-core)
+  [Explore Repo](https://github.com/saiharsha-k/deep-learning-core)
 
 3. **Specialization: Advanced AI Tools**  
    Master RAG, LLMs, agents, and ops for innovative systems.  
