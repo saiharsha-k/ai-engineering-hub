@@ -18,30 +18,28 @@ Navigate like a pro: Each links to dedicated sub-repos with hands-on projects.
    Build unbreakable basics for data science and AI.  
    [Explore Repo](link-to-python-data-ai-foundations) | Tutorials: NumPy/Pandas mastery, first ML models.
 
-2. **Specialization: Advanced AI Tools**  
+2. **Deep Learning**
+  🔗 Deep Learning Core  
+  [Explore Repo] (https://github.com/saiharsha-k/deep-learning-core)
+
+3. **Specialization: Advanced AI Tools**  
    Master RAG, LLMs, agents, and ops for innovative systems.  
    [Explore Repo](link-to-ai-specialization-rag-llm) | Benchmarks: Prompt engineering vs. fine-tuning.
 
-3. **Production & Scaling: Real-World Deployment**  
+4. **Production & Scaling: Real-World Deployment**  
    Scale securely: MLOps pipelines, monitoring, and optimization.  
    [Explore Repo](link-to-production-ai-scaling-mlops) | Guides: Kubernetes for AI, cost vs. performance trade-offs.
 
-4. **Leadership & Thought: Strategic Impact**  
+5. **Leadership & Thought: Strategic Impact**  
    Lead ethically: xAI strategies, responsible frameworks, business transformation.  
    [Explore Repo](link-to-ai-leadership-strategy) | Simulations: AI ROI calculators, ethics audits.
 
 ## Quick Start: Trailblaze Today
-1. **Clone the Hub**: `git clone https://github.com/yourusername/ai-trailblazer-engineering-hub.git`
+1. **Clone the Hub**: `git clone https://github.com/saiharsha-k/ai-engineering-hub.git`
 2. **Setup Environment**: `pip install -r requirements-global.txt` (or use conda for reproducibility).
 3. **Run a Demo**: Open `/tutorials/first-rag-demo.ipynb` in Jupyter/Colab—build a production-ready RAG query in minutes.
-4. **Explore the Site**: Visit [AI Trailblazer Hub](https://saiharshakondaveeti.com/ai-trailblazer-hub) for searchable docs and video walkthroughs.
+4. **Explore the Site**: Visit [AI Trailblazer Hub](https://saiharshakondaveeti.com/ai-engineering-hub) for searchable docs and video walkthroughs.
 
-## Benchmarks & Tools at a Glance
-- **Performance Tracker**: Run `/benchmarks/llm-speed-test.py` to compare models (e.g., GPT vs. open-source).
-- **Community Stats**:  
-  ![GitHub Stars](https://img.shields.io/github/stars/yourusername/ai-trailblazer-engineering-hub?style=for-the-badge)  
-  ![GitHub Forks](https://img.shields.io/github/forks/yourusername/ai-trailblazer-engineering-hub?style=for-the-badge)  
-  ![GitHub Contributors](https://img.shields.io/github/contributors/yourusername/ai-trailblazer-engineering-hub?style=for-the-badge)
 
 ## Contribute & Collaborate
 - **Ideas?** Start a [Discussion](link-to-discussions) on xAI challenges.
